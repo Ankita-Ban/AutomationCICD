@@ -19,6 +19,7 @@ public class StandAloneTest {
  
 	public static void main(String[] args)
 	{
+		// New comments are added
 		String productName = "ZARA COAT 3";
 		WebDriverManager.chromedriver().setup();
 		WebDriver driver = new ChromeDriver();
